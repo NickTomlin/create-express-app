@@ -6,7 +6,7 @@ Scaffold out an [Express app](https://www.npmjs.com/package/express).
 
 ```
 $ npm init express-app
-$ npmx create-express-app
+$ npx create-express-app
 ```
 
 With `npm@6` this will run this package with `npx`.  If you are on an earlier version of `npm` you will
